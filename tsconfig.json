@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "paths": { "*": ["types/*"] },
+    "target": "es2018",
+    "module": "commonjs",
+    "strict": true,
+    "outDir": "./out",
+    "esModuleInterop": true,
+    "baseUrl": "./src",
+    "sourceMap": true
+  }
+}
