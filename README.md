@@ -5,7 +5,7 @@ This is a [Discord](https://discordapp.com) bot that can send callings to to eve
 ## Usage
 _This is what the help command prints to you_
 
-**Usage**: <mention> "<subject>" ...text
+**Usage**: \<mention> "\<subject>" ...text
 
 If the subject line is --help, -h or help I will get you this help text.
 
